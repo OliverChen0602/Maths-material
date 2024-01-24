@@ -6,4 +6,4 @@ All cheatsheets are totally written independently by the author. Labour matters.
 ## Current materials included in AY2023/2024 semester 1
 MA3238, MA3264, DSA3102
 ## Expected further updates
-CS3236, MA4270, MA3265
+MA3211, MA4270, MA3265, CS5330
