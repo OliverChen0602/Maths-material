@@ -1,4 +1,4 @@
-# Maths-helpsheet
+# Maths-materials
 ## Description
 This repository contains cheatsheets for some modules taken by the author in his undergraduate career in Kent Ridge Polytechnic, or more famously known as National University of Singapore, or NUS. Although the repository is named as maths-helpsheet, not all modules are MA-coded. The author also takes modules from computer science and data science and analytics. In general, the cheatsheets are prepared mainly for midterms and finals. All cheatsheets are typed by LaTeX.
 
