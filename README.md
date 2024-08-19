@@ -8,4 +8,4 @@ MA3238, MA3264, DSA3102
 ## Current materials added in AY2023/2024 semester 2
 MA3211, MA3265, CS5330, MA4270
 ## Expected further updates
-MA3220, MA4254, MA5243
+MA3220, MA4254
