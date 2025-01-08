@@ -11,3 +11,6 @@ MA3211, MA3265, CS5330, MA4270
 MA3220, MA4254
 ## Expected further updates
 MA4264, MA4251
+
+###Remark
+For some unknown technical issues, the PDFs available in the repo are not displaying properly. Download the files to see the content. Any help to resolve the issue is highly appreciated.
