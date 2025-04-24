@@ -11,8 +11,5 @@ MA3238, MA3264, DSA3102
 MA3211, MA3265, CS5330, MA4270
 ## Current materials added in AY2024/2025 semester 1
 MA3220, MA4254
-## Expected further updates
+## Current materials added in AY2024/2025 semester 2
 MA4264, MA4251
-
-### Remark
-For some unknown technical issues, the PDFs available in the repo are not displaying properly. Download the files to see the content. Any help to resolve the issue is highly appreciated.
